@@ -1,6 +1,6 @@
-<mxfile host="drawio-plugin" modified="2024-05-26T09:15:02.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vDYQax7ZcWb5EBWz6viH" version="22.1.22" type="embed" pages="2">
+<mxfile host="drawio-plugin" modified="2024-05-26T09:22:52.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="C0AeYwishq-9EXJB4nZF" version="22.1.22" type="embed" pages="2">
   <diagram name="ClinicWave Local Development and Deployment Workflow" id="g2H6kbWNZ8GhJzK7uyzH">
-    <mxGraphModel dx="719" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1352" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ClinicWave Production Development and Deployment Workflow" id="TfVD8Oxl-dYxt8xEM5-u">
-    <mxGraphModel dx="719" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1352" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="83gLgwqaku1M9jHAZKv6-0" />
         <mxCell id="83gLgwqaku1M9jHAZKv6-1" parent="83gLgwqaku1M9jHAZKv6-0" />
@@ -164,6 +164,9 @@
         </mxCell>
         <mxCell id="gMfWb2h-fXi41qoKtKvu-5" value="Kubernetes Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="83gLgwqaku1M9jHAZKv6-1">
           <mxGeometry x="1340" y="220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1pS6QlTqxDVXn9F7OCB-0" value="Run docker containers on &lt;br&gt;Kubernetes Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="83gLgwqaku1M9jHAZKv6-1">
+          <mxGeometry x="1325" y="60" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
