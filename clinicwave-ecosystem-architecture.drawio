@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Main" id="mgHVF-OJpn1CRxiaA8hz">
-    <mxGraphModel dx="2537" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3919" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,10 +206,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XxMRKOd0uS3pgOXh0L2B-26" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&amp;s;" vertex="1" parent="1">
-          <mxGeometry x="-801.84" y="550" width="83.17" height="72.12" as="geometry" />
+          <mxGeometry x="-1030" y="382.44" width="83.17" height="72.12" as="geometry" />
         </mxCell>
         <mxCell id="XxMRKOd0uS3pgOXh0L2B-27" value="Frontend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-810.25" y="640" width="100" height="40" as="geometry" />
+          <mxGeometry x="-1038.42" y="473.5" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
