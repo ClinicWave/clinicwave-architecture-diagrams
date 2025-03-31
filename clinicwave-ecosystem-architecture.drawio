@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Main" id="mgHVF-OJpn1CRxiaA8hz">
-    <mxGraphModel dx="3919" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3374" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,9 +138,6 @@
         <mxCell id="2WeGBHQls34jL-ZH-_or-53" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="418" y="741" width="82.93" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="2WeGBHQls34jL-ZH-_or-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.snaplogic.com/wp-content/uploads/2016/05/kafka-logo-600x390.jpg;" parent="1" vertex="1">
-          <mxGeometry x="242.61" y="328.5" width="100.78" height="65.5" as="geometry" />
-        </mxCell>
         <mxCell id="Gpa-V4h_ZYWlsKL0aMfH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2WeGBHQls34jL-ZH-_or-56" target="2WeGBHQls34jL-ZH-_or-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -194,7 +191,7 @@
           <mxGeometry x="510.56" y="680" width="31.78" height="31.78" as="geometry" />
         </mxCell>
         <mxCell id="Gpa-V4h_ZYWlsKL0aMfH-54" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.gmail" parent="1" vertex="1">
-          <mxGeometry x="462.8" y="473.5" width="50.4" height="30.3" as="geometry" />
+          <mxGeometry x="462.8" y="465" width="50.4" height="30.3" as="geometry" />
         </mxCell>
         <mxCell id="Gpa-V4h_ZYWlsKL0aMfH-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="20" target="2WeGBHQls34jL-ZH-_or-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -202,14 +199,17 @@
         <mxCell id="20" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" parent="1" vertex="1">
           <mxGeometry x="216.5" y="870" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="XxMRKOd0uS3pgOXh0L2B-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XxMRKOd0uS3pgOXh0L2B-26" target="2WeGBHQls34jL-ZH-_or-35">
+        <mxCell id="XxMRKOd0uS3pgOXh0L2B-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XxMRKOd0uS3pgOXh0L2B-26" target="2WeGBHQls34jL-ZH-_or-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XxMRKOd0uS3pgOXh0L2B-26" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&amp;s;" vertex="1" parent="1">
+        <mxCell id="XxMRKOd0uS3pgOXh0L2B-26" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&amp;s;" parent="1" vertex="1">
           <mxGeometry x="-1030" y="382.44" width="83.17" height="72.12" as="geometry" />
         </mxCell>
-        <mxCell id="XxMRKOd0uS3pgOXh0L2B-27" value="Frontend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="XxMRKOd0uS3pgOXh0L2B-27" value="Frontend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-1038.42" y="473.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tOpU5ds83cDVlDcYTvj3-26" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.rabbitmq.com/img/rabbitmq-logo-with-name.svg;" vertex="1" parent="1">
+          <mxGeometry x="229" y="351.52" width="128" height="20.48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
